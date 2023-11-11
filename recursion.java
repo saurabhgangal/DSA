@@ -10,7 +10,7 @@ public static int[] joker(){
 
 
 public static void Main(String []args){
-
+Syso
 }
 
 
